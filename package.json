@@ -1,0 +1,13 @@
+{
+  "name": "youtube-latest-rss",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.4.1"
+  }
+}
